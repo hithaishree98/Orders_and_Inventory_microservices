@@ -24,6 +24,15 @@ A lightweight, event-driven demonstration of two collaborating microservices—I
   Provides:
   - A **Products** page to add, view, and delete products  
   - An **Orders** checkout form that previews price (including a 20% fee), submits orders, and polls for status changes.
+ 
+    ![Screenshot (48)](https://github.com/user-attachments/assets/34b75083-9ab6-41d2-a46d-7931741f80f7)
+
+    ![Screenshot (49)](https://github.com/user-attachments/assets/04de19e3-7ef7-487c-830a-1e4e4e33b26b)
+
+    ![Screenshot (51)](https://github.com/user-attachments/assets/0b55b18b-fec5-4264-8105-5d55cc97069a)
+
+
+
 
 ---
 

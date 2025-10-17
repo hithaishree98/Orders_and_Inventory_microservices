@@ -1,6 +1,6 @@
 ## Order & Inventory Microservices
 
-A lightweight, event-driven demonstration of two collaborating microservices—Inventory and Payment—coordinated via Redis Streams and backed by FastAPI, Redis-OM, and a React front-end.
+A lightweight, event-driven demonstration of two collaborating microservices - Inventory and Payment, coordinated via Redis Streams and backed by FastAPI, Redis-OM, and a React front-end.
 
 ---
 
